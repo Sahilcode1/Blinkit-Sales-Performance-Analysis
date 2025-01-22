@@ -3,7 +3,7 @@
 Conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify
 key insights and opportunities for optimization using various KPIs and visualizations in Power BI
 
-##STEPS
+## STEPS
 Requirement Gathering
 Data Walkthrough
 Data Cleaning
@@ -15,13 +15,13 @@ Charts Development and Formatting
 Dashboard Development
 Insights Generation
 
-##KPI's Requirements
+## KPI's Requirements
 1.Total Sales
 2.Average Sales
 3.Number of Items
 4.Average Rating
 
-##Chart's Requirements 
+## Chart's Requirements 
 1.Total Sales by Fat Content
 2.Total Sales by Item Type
 3.Fat Content by Outlet for Total Sales
